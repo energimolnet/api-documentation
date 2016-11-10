@@ -1,4 +1,4 @@
 api-documentation
 =================
 
-Our API documentation for Energimolnet. Please help us to make it better!
+Our API documentation for Metry. Please help us to make it better!
